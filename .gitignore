@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / OS
+.DS_Store
+.~lock.*#
+*.swp
+*~
+Thumbs.db
+
+# Local IDE
+.idea/
+.vscode/
